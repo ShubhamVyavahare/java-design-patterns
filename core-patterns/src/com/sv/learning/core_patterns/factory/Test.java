@@ -1,6 +1,6 @@
 package com.sv.learning.core_patterns.factory;
 
-public class FactoryTest {
+public class Test {
 
     public static void main(String[] args) {
 
